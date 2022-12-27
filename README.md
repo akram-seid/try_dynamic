@@ -1,4 +1,4 @@
-# try_dynamic
+# Survey management system
 
 A new Flutter project.
 
